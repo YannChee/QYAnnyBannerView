@@ -1,10 +1,11 @@
 Pod::Spec.new do |s|
   s.name         = "QYAnnyBannerView"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "轻量级的bannerView,通过自定义cell支持任意Banner"
 
   s.description  = <<-DESC
-                    这个是第一版,以后会继续完善更多功能
+                    这个是第一版,以后会继续完善更多功能66666
+                    ....................
                    DESC
 
   s.homepage     = "https://github.com/YannChee/QYAnnyBannerView"
