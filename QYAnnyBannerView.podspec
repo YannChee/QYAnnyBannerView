@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "QYAnnyBannerView"
-  s.version      = "0.0.1"
+  s.version      = "0.1.0"
   s.summary      = "轻量级的bannerView,通过自定义cell支持任意Banner"
 
   s.description  = <<-DESC
@@ -41,7 +41,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/YannChee/QYAnnyBannerView.git", :commit => "6ad04059b40596cbf5f6914965c9b56d58a1cd6a" }
+  s.source       = { :git => "https://github.com/YannChee/QYAnnyBannerView.git", :tag => s.version.to_s  }
 
 
   s.source_files  = "Classes", "Classes/**/*"
