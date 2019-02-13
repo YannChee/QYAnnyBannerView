@@ -1,0 +1,2 @@
+# QYAnnyBannerView
+轻量级的bannerView,通过自定义cell支持任意Banner
